@@ -1,5 +1,5 @@
 # Submission Report
-##### By- Pranjal Rout, Sree Kruti
+##### By- Pranjal Rout, Lolla Sree Kruti
 
 ## Motivation:-
 We have prepared 3 projects, namely the Sorting Visualizer, a code to find roots of quadratic or linear equations, and a code to calculate the derivative of a given polynomial. We chose these sets of projects because writing the logic for the visualizer seemed interesting, and Mathematics is interesting on its own. We wanted to challenge ourselves to come out of our comfort zone and try a variety of different subjects. We have furthered our knowledge of C Programming with these projects.
