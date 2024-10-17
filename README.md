@@ -21,7 +21,7 @@ If we had more experience, we could have explored the Derivative Calculator a bi
 3) The Derivative Calculator as I have mentioned before can be extended to help calculate the derivative of a given function and its value at some point.
 
 ## Declaration:-
-1) Lolla Sree Kruti made the code for the Sorting Visualizer;
-2) Pranjal Rout made the code for the Quadratic/Linear Equation Solver;
+1) Both the team members contributed equally to the code for the Sorting Visualizer;
+2) Idea for Quadratic/Linear Equation Solver was formulated by Lolla Sree Kruti and Pranjal Rout wrote the code;
 3) Idea for Derivative Calculator was formulated by Pranjal Rout and both the members contributed equally to the code.
 
